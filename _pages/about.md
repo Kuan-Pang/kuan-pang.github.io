@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am in my final year of undergrad study, doing {Computer Science, Bioinformatics, and Statistics} @ ![](/assets/img/logo/Utoronto_coa.svg.png){: width="16" }University of Toronto. 
+I am in my final year of undergrad study, doing {Computer Science, Bioinformatics, and Statistics} @ ![](/assets/img/logo/Utoronto_coa.svg.png){: width="16" } [University of Toronto](https://www.utoronto.ca/). 
 
 Currently, I am a student researcher at ![](/assets/img/logo/vector_logo.png){: width="16" } [Vector Institute](https://vectorinstitute.ai/) . I am broadly interested in building computational methods for biomedical applications, and AI4Science in general.
 
