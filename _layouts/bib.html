@@ -134,6 +134,16 @@
           {{ entry.note | strip }}
         </div>
 
+          <!-- Award -->
+          {% if entry.award -%}
+            <div class="periodical">✨<font color="#B509AC"><b>{{entry.award}}</b></font>✨</div>
+          {%- endif %}
+        
+          <!-- Status -->
+            {% if entry.status -%}
+            <div class="periodical"><font color="#000000"><b>{{entry.status}}</b></font></div>
+          {%- endif %}
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
