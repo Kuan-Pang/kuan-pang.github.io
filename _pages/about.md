@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming first-year Ph.D. student in the [](/assets/img/logo/stanford_logo.png){: width="16" } [Stanford](https://www.stanford.edu/) Computer Science program.
+I am an incoming first-year Ph.D. student in the ![](/assets/img/logo/stanford_logo.png){: width="16" } [Stanford](https://www.stanford.edu/) Computer Science program.
 
 My research interests focus on AI4Biomedicine, particularly in developing spatial-temporal models for predictive biology, machine learning-guided experiment design, and self-driving labs.
 
