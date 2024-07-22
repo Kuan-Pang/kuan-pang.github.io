@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am in my final year of undergrad study, doing {Computer Science, Bioinformatics, and Statistics} @ ![](/assets/img/logo/Utoronto_coa.svg.png){: width="16" } [University of Toronto](https://www.utoronto.ca/). 
+I am an incoming first-year Ph.D. student in the [](/assets/img/logo/stanford_logo.png){: width="16" } [Stanford](https://www.stanford.edu/) Computer Science program.
 
-Currently, I am a student researcher at ![](/assets/img/logo/vector_logo.png){: width="16" } [Vector Institute](https://vectorinstitute.ai/). I am broadly interested in developing computational methods for biomedical applications, and AI4Science in general.
+My research interests focus on AI4Biomedicine, particularly in developing spatial-temporal models for predictive biology, machine learning-guided experiment design, and self-driving labs.
 
-My research work involves multi-modal alignment for spatial transcriptomics and H&E histology images, self-supervised subcellular segmentation for volume electron microscopy(vEM) and generative foundation models for single-cell genomics.
+Previously, I did my B.S. in {Computer Science, Bioinformatics and Computational Biology, and Statistics} @ ![](/assets/img/logo/Utoronto_coa.svg.png){: width="16" } [University of Toronto](https://www.utoronto.ca/) and had the fortune to work at ![](/assets/img/logo/vector_logo.png){: width="16" } [Vector Institute](https://vectorinstitute.ai/). 
