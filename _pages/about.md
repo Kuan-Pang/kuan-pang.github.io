@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student in ![](/assets/img/logo/stanford_logo.png){: width="16" } [Stanford](https://www.stanford.edu/) Computer Science, advised by Prof. [Jure Leskovec](https://snap.stanford.edu/index.html).
+I am a Computer Science Ph.D. student at ![](/assets/img/logo/stanford_logo.png){: width="16" } [Stanford](https://www.stanford.edu/), advised by Prof. [Jure Leskovec](https://snap.stanford.edu/index.html).
 
 My research interests focus on AI4Biomedicine, particularly in developing spatial-temporal models for predictive biology, machine learning-guided experiment design, and self-driving labs.
 
